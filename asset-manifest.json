@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/verbose-octo-parakeet/static/css/main.7acaea2f.css",
+    "main.js": "/verbose-octo-parakeet/static/js/main.07d3183d.js",
+    "index.html": "/verbose-octo-parakeet/index.html",
+    "main.7acaea2f.css.map": "/verbose-octo-parakeet/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/verbose-octo-parakeet/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
